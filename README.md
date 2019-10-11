@@ -11,3 +11,5 @@ Laatste(final) aanpassing
 
 
 Nog eens proberen
+
+Aanpassing van uit VS2019
